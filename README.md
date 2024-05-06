@@ -1,2 +1,4 @@
 # Excel_Data_Analysis
-Vrinda store analysis and stock analysis
+Store analysis
+Stock analysis
+Bank Loan Analysis
